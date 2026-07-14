@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from tensorflow.keras.datasets import mnist
 
 print("=" * 60)
-print("🖼️ TASK-04 : CONDITIONAL GAN DEMO")
+print("TASK-04 : CONDITIONAL GAN DEMO")
 print("=" * 60)
 
 # Create output folder
