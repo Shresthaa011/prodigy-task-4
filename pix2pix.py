@@ -30,5 +30,5 @@ plt.imshow(generated_image, cmap="gray")
 plt.axis("off")
 plt.savefig(output_path, bbox_inches="tight", pad_inches=0)
 
-print("\n✅ Image generated successfully!")
+print("\nImage generated successfully!")
 print("Saved as:", output_path)
